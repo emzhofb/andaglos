@@ -1,3 +1,5 @@
+// Permainan gunting batu kertas
+
 const kamu = ['gunting', 'batu', 'kertas'];
 
 function pilihanMu() {

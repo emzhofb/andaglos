@@ -31,7 +31,9 @@ function hitungJumlahKata(kalimat) {
     // console.log(myArr);
     var wordCounter = 0;
     for (let i = 0; i < myArr.length; i++) {
-        wordCounter++;
+        if (myArr[i] !== '') {
+            wordCounter++;
+        }
     }
     return wordCounter;
 }
