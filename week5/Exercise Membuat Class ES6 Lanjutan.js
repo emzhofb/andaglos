@@ -91,7 +91,7 @@ class student {
 
 let name = 'Roronoa Zoro';
 let age =  22;
-let birth = '11-11-1997';
+let birth = '11-November-1997';
 let gender = 'Male';
 let studentID = 'Santoryuu';
 let hobbies = ['Sleeping', 'Gym', 'Get lost'];
